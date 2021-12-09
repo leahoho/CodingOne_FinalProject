@@ -18,4 +18,6 @@
 
 **🌌 Project Description**
 
-<img width="1208" alt="Screenshot 2021-12-09 at 10 36 33 PM" src="https://user-images.githubusercontent.com/39073888/145487310-a7aa8d59-972d-42c4-80da-b7537cd89bf5.png">
+
+<img width="1193" alt="Screenshot 2021-12-09 at 10 43 11 PM" src="https://user-images.githubusercontent.com/39073888/145487476-752a0bd3-ba4e-439a-b7fa-3ab9f0aedf6d.png">
+
